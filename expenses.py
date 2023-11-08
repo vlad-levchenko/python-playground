@@ -22,3 +22,4 @@ for x in range(0, 7, 1):
 total1 = sum(expenses1)
 
 print('You spent $', total1, sep = '')
+
